@@ -3,7 +3,7 @@
 
 {
     'name': 'APP PRUEBA GIT 2',
-    'version': '1.0',
+    'version': '2.0',
     'category': 'Inventory/Purchase',
     'sequence': 100,
     'summary': 'Será para una app de prueba DE GIT',
